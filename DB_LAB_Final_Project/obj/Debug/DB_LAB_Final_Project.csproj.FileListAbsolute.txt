@@ -1,0 +1,70 @@
+c:\users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\bin\Debug\DB_LAB_Final_Project.exe.config
+c:\users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\bin\Debug\DB_LAB_Final_Project.exe
+c:\users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\bin\Debug\DB_LAB_Final_Project.pdb
+c:\users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.csprojResolveAssemblyReference.cache
+c:\users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.LoginSTD.resources
+c:\users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.Properties.Resources.resources
+c:\users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.csproj.GenerateResource.Cache
+c:\users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.exe
+c:\users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.pdb
+c:\users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.LoginADMIN.resources
+C:\Users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.AdminDashboard.resources
+C:\Users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.Admin_PersonalInfo.resources
+C:\Users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.ManageHostels.resources
+C:\Users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.AddAdmin.resources
+C:\Users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.ManageAdmins.resources
+C:\Users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.AddStudent.resources
+C:\Users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.ManageStudents.resources
+C:\Users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.ManageBills.resources
+C:\Users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.PayBills.resources
+C:\Users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.AddMessAttendance.resources
+C:\Users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.ManageRoomShift.resources
+C:\Users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.ManageVisitor.resources
+C:\Users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.ViewAllAdmins.resources
+C:\Users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.ViewAllStudents.resources
+C:\Users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.STDDashboard.resources
+C:\Users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.STDPersonalInfo.resources
+C:\Users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.STDViewBills.resources
+C:\Users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.STD_ViewAttendance.resources
+C:\Users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.STDViewVisitors.resources
+C:\Users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.STDRoomShift.resources
+C:\Users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.STDShiftRequest.resources
+C:\Users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.AdminViewSpecificRoom.resources
+C:\Users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.AdminViewVisitors.resources
+C:\Users\faiza\onedrive\documents\visual studio 2015\Projects\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.STD_GOOUT.resources
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\bin\Debug\DB_LAB_Final_Project.exe.config
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\bin\Debug\DB_LAB_Final_Project.exe
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\bin\Debug\DB_LAB_Final_Project.pdb
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.csproj.AssemblyReference.cache
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.AddAdmin.resources
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.AddMessAttendance.resources
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.AddStudent.resources
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.AdminDashboard.resources
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.AdminViewSpecificRoom.resources
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.AdminViewVisitors.resources
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.Admin_PersonalInfo.resources
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.LoginADMIN.resources
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.LoginSTD.resources
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.ManageAdmins.resources
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.ManageBills.resources
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.ManageHostels.resources
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.ManageRoomShift.resources
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.ManageStudents.resources
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.ManageVisitor.resources
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.PayBills.resources
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.Properties.Resources.resources
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.STDDashboard.resources
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.STD_GOOUT.resources
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.STDPersonalInfo.resources
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.STDShiftRequest.resources
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.STDViewBills.resources
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.STD_ViewAttendance.resources
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.ViewAllAdmins.resources
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.ViewAllStudents.resources
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.STDViewVisitors.resources
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.csproj.GenerateResource.cache
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.csproj.CoreCompileInputs.cache
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.csproj.CopyComplete
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.exe
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\obj\Debug\DB_LAB_Final_Project.pdb
+D:\Media\DB_LAB_Final_Project\DB_LAB_Final_Project\bin\Debug\Oracle.ManagedDataAccess.dll
